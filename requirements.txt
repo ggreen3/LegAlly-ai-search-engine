@@ -1,0 +1,5 @@
+websocket-client
+selenium
+beautifulsoup4
+tkinter
+concurrent
